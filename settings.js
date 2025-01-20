@@ -6,7 +6,8 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==wdBxWV5EjYWRnVudXLxo2aTZDZtAVUHVTbx0EZOdEV0Jma1YVNuNkcZNzcjwUQUBjejFFZpwd=31974734749
+',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -23,42 +24,42 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: process.env.MONGODB_URL|| '',
+  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb+srv://King-MdIsbot:King-MdIsbot@cluster0.hikjrg2.mongodb.net/?retryWrites=true&w=majority',
   PREFIX: '.$&',
-  LANGUAGE: 'EN',
+  LANGUAGE: 'SI',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
-  OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NAME: 'Zeeker',
+  OWNER_NUMBER: '94743747913',
+  SUDO: '94768806865',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
   STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
   STICKER_PACK: 'QUEEN ELISA',
-  REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90, //size in MB
+  REMOVE_BG_APIKEY: 'mBRM6Agzhc1Ss7TJbmb9d7em',
+  MAXIMUM_FILESIZE: 100, //size in MB
   OWNER_R_EMOJI: '💻',
-  ALIVE_AS_GIF: false,//this only work for short videos
+  ALIVE_AS_GIF: true,//this only work for short videos
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
-  BOT_OFFLINE: false,// Bot online status
+  BOT_OFFLINE: true,// Bot online status
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
-  ANTI_VIEW_ONES: false, // This not working now !
+  ANTI_VIEW_ONES: true, // This not working now !
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
   BLOCK_CMD_MSG_SEND: true,
   INBOX_BLOCK_MSG_SEND: true,
   CMD_CORRECT: true,
-  ANTI_CHANNEL_FORWARD: false,
-  ANTI_BOT: false,// disabled
+  ANTI_CHANNEL_FORWARD: true,
+  ANTI_BOT: true,// disabled
   BUTTON_MESSAGES: false,// Don't change this
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
